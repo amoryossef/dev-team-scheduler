@@ -34,9 +34,9 @@ The system allows users to filter and view scheduled meetings for specific devel
 
 ## 📸 Screenshots
 
-|         Group Filter View         |            Add Meeting Form            |
-| :--------------------------------: | :------------------------------------: |
-| ![Home Page](./assets/home-page.png) | ![Add Meeting](./assets/add-meeting.png) |
+|              Group Filter View              |            Add Meeting Form            |
+| :-----------------------------------------: | :------------------------------------: |
+| ![home-page](./assets/home-page.png "home-page") | ![Add Meeting](./assets/add-meeting.png) |
 
 ## ⚙️ Installation & Setup
 
